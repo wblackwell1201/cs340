@@ -1,1 +1,7 @@
 # cs340
+
+One key item for writing good code is to modularize things for reuse and easy transfer. Another is commenting well because it is similar to writing a paper or article. If the information being portrayed is not well defined then it is difficult for others to discern what it is that is written. The modularization of the CRUD code allows it to be reused for nearly any project of this type without having to rewrite it's functions. 
+
+Critical thinking is a part of everyday life for computer scientists. Read through the criteria and requirements multiple times. Imagine the process of each stage of the application. Write the basic code that will perform the bare minimum requirements. Refine the code and add comments. Modularize whatever can be reused for other applications of the same type. The CRUD method is simple and efficient, and I would reuse it but possibly refine the code I wrote to be more functional. 
+
+Computer scientists use many methods to refine a product for a customer/client. The way that computer scientists perform their function in stages is how they get things done efficiently and effectively. One methodology some teams utilize is the Agile Methodology. Breaking down the scope of the client's requirements into segments and bringing the segments together one by one. Once together they're tested and implemented. Using databases can be complex depending on the query but quite simple in general. Being able to modularize the code allows me to utilize the same module for many applications, which will save time and efforct in the future.
